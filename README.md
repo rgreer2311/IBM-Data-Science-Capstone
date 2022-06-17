@@ -1,2 +1,5 @@
 # IBM-Data-Science-Capstone
 Repo for the IBM Data Science Capstone Project
+# IBM Data Science Capstone Project - SpaceX
+
+The capstone is a real world project similar to what data scientists and data analysts work with in real life. The objective is to assume the role of a Data Scientist working for a startup intending to compete with SpaceX and follow the Data Science methodology involving [data collection and wrangling](https://github.com/rgreer2311/IBM-Data-Science-Capstone/blob/main/Data%20Collection%20API.ipynb), (https://github.com/rgreer2311/IBM-Data-Science-Capstone/blob/main/EDA%20with%20SQL.ipynb), [data visualization](https://github.com/rgreer2311/IBM-Data-Science-Capstone/blob/main/EDA%20with%20Viz.ipynb), [model development and evaluation](https://github.com/rgreer2311/IBM-Data-Science-Capstone/blob/main/Machine%20Learning.ipynb), and [reporting](PLACE HOLDER) your results to stakeholders. You are tasked with predicting if the first stage of the SpaceX Falcon 9 rocket will land successfully.
